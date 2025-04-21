@@ -76,7 +76,7 @@ Here’s a breakdown of the key visualizations and insights included in the dash
 
 ## 🖼️ Screenshot Preview
 
-![Dashboard Screenshot]
+
 ![Screenshot 2025-04-21 223318](https://github.com/user-attachments/assets/4916b4e8-f252-4006-9e70-436de4a1216c)
 
 ---
