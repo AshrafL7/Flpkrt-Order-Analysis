@@ -115,7 +115,7 @@ Flpkrt-Order-Analysis/
 ## 📌 How to Use
 
 1. Clone or download this repository:
-git clone https://github.com/your-username/Flpkrt-Order-Analysis.git
+git clone https://github.com/AshrafL7/Flpkrt-Order-Analysis.git
 
 
 2. Open `Flipkart_Order_Dataset.xlsx` in Microsoft Excel (Office 365 recommended).
