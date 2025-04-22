@@ -148,7 +148,7 @@ Developed an interactive dashboard using Excel to analyze e-commerce order data 
 Have questions or feedback? Feel free to connect:
 
 - 📧 Email: ashraf151002@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/ashraf-sm)
+- 💼 LinkedIn: www.linkedin.com/in/ashraf-sm/
 
 ---
 
